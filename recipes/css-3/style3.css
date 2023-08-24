@@ -1,0 +1,49 @@
+body{
+    background-color: brown;
+    color: rgb(239, 233, 176);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.ingredients #ing{
+    background-color: rgb(36, 31, 31);
+    width: fit-content;
+    height: auto;
+    margin-left: auto;
+    padding: 20px;
+    border: 20px;
+
+}
+
+.directs #actions{
+    background-color: rgb(36, 31, 31);
+    width: fit-content;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+}
+
+span{
+    color: white;
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+
+.facts #nootri{
+    background-color: gray;
+    color: black;
+    width: fit-content;
+    margin-left: auto;
+    padding: 20px;
+    border: 20px;
+
+}
+
+a{
+    text-decoration: none;
+    background-color: black;
+    color: rgb(239, 233, 176);
+}
+

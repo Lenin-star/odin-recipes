@@ -1,0 +1,56 @@
+body{
+    background-color: brown;
+    color: rgb(239, 233, 176);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.original #ingredients{
+    background-color:rgb(36, 31, 31);
+    width: fit-content;
+    margin-left: auto;
+    padding: 20px;
+    border: 20px;
+
+}
+
+.sub-time{
+    background-color: rgb(36, 31, 31);
+    width: 300px;
+    margin-right: auto;
+    padding: 10px;
+    border: 20px;
+}
+
+.direct #directions{
+    background-color: rgb(36, 31, 31);
+    width: fit-content;
+    padding: 20px;
+    border: 20px;
+    margin: 30px;
+}
+
+#brown{
+    color: rgb(74, 10, 10);
+}
+
+
+.facts #nutri{
+    background-color: gray;
+    width: fit-content;
+    color: black;
+    margin-left: auto;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    background-color: black;
+    color: rgb(239, 233, 176);
+}
+
+button{
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    margin: 8px 10px 10px 10px;
+}

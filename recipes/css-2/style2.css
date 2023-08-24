@@ -1,0 +1,33 @@
+body{
+    background-color: brown;
+    color: rgb(239, 233, 176);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.original #time{
+    background-color: rgb(36, 31, 31);
+    width: 300px;
+    padding: 10px;
+}
+
+.original #ingredients{
+    background-color: rgb(36, 31, 31);
+    width: fit-content;
+    height: auto;
+    margin-left: auto;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    background-color: black;
+    color: rgb(239, 233, 176);
+}
+
+.facts,.nutri{
+    background-color: gray;
+    color: black;
+    width: fit-content;
+    margin-left: auto;
+    padding: 20px;
+}

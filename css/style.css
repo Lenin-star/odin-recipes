@@ -1,0 +1,60 @@
+body{
+    background-color: brown;
+    color: rgb(239, 233, 176);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: rgb(239, 233, 176);
+    
+}
+
+div{
+    background-color: black;
+    width: fit-content;
+    height: fit-content;
+    padding: 20px;
+    border: 20px;
+    margin-left: auto;
+}
+
+a{
+    text-decoration: none;
+    background-color: black;
+    color: rgb(239, 233, 176);
+}
+
+ul{
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 40px;
+ 
+}
+
+
+.cuisines #services{
+    margin-left: auto;
+}
+
+
+button{
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    margin: 8px 10px 10px 10px;
+}
+
+h3{
+    margin: 8px;
+}
+
+h1{
+    background-color: chocolate;
+    width: fit-content;
+    padding: 20px;
+    color: aliceblue;
+    margin: auto;
+    margin-bottom: 80px;
+}
+
